@@ -62,9 +62,9 @@ Proxmox VE adalah platform virtualisasi yang mendukung teknologi KVM untuk VM da
      ```bash
      kubectl apply -f deployment.yaml
 8. **Pengujian Performa**
-    Benchmark Tools: sysbench, fio, iperf3
-    Parameter yang diuji:
-    CPU usage, RAM usage
-    Disk I/O performance
-    Network throughput
-    Latency & responsiveness aplikasi
+    - Benchmark Tools: sysbench, fio, iperf3
+    - Parameter yang diuji:
+    - CPU usage, RAM usage
+    - Disk I/O performance
+    - Network throughput
+    - Latency & responsiveness aplikasi
